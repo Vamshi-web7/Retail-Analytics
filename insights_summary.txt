@@ -1,0 +1,2 @@
+Summary:
+The project successfully identified sales trends, regional business patterns, and office performance insights using SQL analysis and dashboard visualization.
