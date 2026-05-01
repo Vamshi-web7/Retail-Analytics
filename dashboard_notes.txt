@@ -1,0 +1,11 @@
+Retail Analytics Dashboard
+KPIs Included:
+* Total Sales
+* Regional Revenue
+* Office Performance
+* Sales Growth Rate
+Charts Used:
+* Sales Trend Analysis
+* Regional Performance Dashboard
+* Revenue Distribution Charts
+
