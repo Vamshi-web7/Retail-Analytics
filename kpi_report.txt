@@ -1,0 +1,6 @@
+KPIs Tracked:
+* Total Sales
+* Regional Revenue
+* Office Performance Score
+* Sales Growth Rate
+* Revenue Per Region
