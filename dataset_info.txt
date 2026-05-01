@@ -1,0 +1,12 @@
+Dataset: Retail Operations Dataset
+Columns Included:
+* Office Code
+* City
+* Phone Number
+* Address
+* State
+* Country
+* Postal Code
+* Territory
+Purpose:
+Used for analyzing retail office performance and regional business operations.
