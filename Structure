@@ -1,0 +1,31 @@
+Retail-Analytics/
+│
+├── README.md
+│
+├── SQL_Queries/
+│ ├── sales_analysis.sql
+│ ├── regional_performance.sql
+│ ├── office_analysis.sql
+│ ├── revenue_trends.sql
+│ └── customer_insights.sql
+│
+├── Dashboard/
+│ ├── retail_dashboard.pbix
+│ └── dashboard_notes.txt
+│
+├── Dataset/
+│ ├── retail_dataset.csv
+│ └── dataset_info.txt
+│
+├── Screenshots/
+│ ├── dashboard_overview.png
+│ ├── sales_trends.png
+│ └── regional_analysis.png
+│
+├── Documentation/
+│ ├── project_summary.txt
+│ └── business_insights.txt
+│
+└── Results/
+├── kpi_report.txt
+└── insights_summary.txt
